@@ -5,5 +5,9 @@ I have written a python code with the database of SQL!  All features of Employee
 
 
 
-https://github.com/roxgg2/Employee_Mangement_System/assets/120183940/df2329a5-13c3-49a5-84bc-3e55ca5485a2
+
+
+https://github.com/roxgg2/Employee_Mangement_System/assets/120183940/249fa04a-318c-4ce1-a371-41bd4b935163
+
+
 
